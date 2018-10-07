@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:layout_height="fill_parent">
+
+        <ImageView
+            android:id="@+id/proimg"
+
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+
+            android:src="@drawable/afc2" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Product Description"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:textColor="#7affdf"
+            android:background="#3a171d" />
+
+
+        <TextView
+            android:id="@+id/prdestxt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Welcome to American Fried Chicken.
+ It's easy, fast and convenient Try our online website which contains all our takeaway menu. Order online your favourite great tasting wraps, spare ribs, pizzas, burgers, kebabs, fried chicken and Much more and get fast free home delivery service.. Our Delivery service is fast and the food you ordered will be at your door." />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#000"/>
+        <LinearLayout
+            android:id="@+id/layoutl"
+            android:layout_width="fill_parent"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:layout_height="wrap_content">
+
+
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:text="Qty"
+            android:paddingLeft="10dp"
+            android:layout_margin="4dp"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:paddingLeft="4dp"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:paddingLeft="10dp">
+
+                <TextView
+                    android:id="@+id/minusbtbn"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/round_text_remove_item"
+                    android:gravity="center"
+                    android:text="-"
+                    android:textColor="@android:color/holo_red_dark"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/textvalu"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:gravity="center"
+                    android:text="1"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/plusbtn"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/round_text_add_item"
+                    android:gravity="center"
+                    android:text="+"
+                    android:textColor="@android:color/holo_green_dark"
+                    android:textSize="20dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:paddingLeft="8dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:layout_weight="1">
+                <TextView
+                    android:text="500/T"
+                    android:textSize="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/pricetxt"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="20dp"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            android:layout_marginTop="10dp"
+
+            android:layout_height="60dp">
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="150dp"
+        android:background="@drawable/btnbg"
+        android:layout_margin="4dp"
+        android:layout_alignParentBottom="true"
+        android:text="Book Table"
+        android:gravity="center"
+        android:textSize="22dp"
+        android:textColor="#fff"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="150dp"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/btnbg"
+        android:layout_margin="4dp"
+        android:text="Call"
+        android:gravity="center"
+        android:textSize="22dp"
+        android:textColor="#fff"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>

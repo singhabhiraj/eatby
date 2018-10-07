@@ -1,0 +1,519 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+uses-permission#com.androidtutorialpoint.mymapsappsdirection.permission.MAPS_RECEIVE
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:12:5-108
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:12:22-105
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:13:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\28ecf0877791dbb38899f2068a55a2b582769c2a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Rasbinder\.android\build-cache\96db79045790db41904b208af256a1663e8fc091\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Rasbinder\.android\build-cache\691406cfe0d5a5f18034db277877b73d655785c4\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\67d4ea21e2508c5cfd5c5c2cb651e9cc26c96f19\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\63d8d3080128923802a706ec0d53eb5ac7b91d2b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\b3bab49c56f26b12c807bbb0282e39c62b59658e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Rasbinder\.android\build-cache\58a932611b0297ed4028c14047b7f1eeb0137b1e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:15:5-97
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:15:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:18:22-66
+application
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:19:5-59:19
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Rasbinder\.android\build-cache\d1fd9e01c69d9cf0532ca030200eb66469f4958e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\28ecf0877791dbb38899f2068a55a2b582769c2a\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Rasbinder\.android\build-cache\82f24c3807fdae10df747b1ea9450fa1453e0776\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Rasbinder\.android\build-cache\13a0d060ab5e22137954c00042c0ac87ec239050\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Rasbinder\.android\build-cache\5706cfe76da3b0143d933d396d55e9e29c90f416\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rasbinder\.android\build-cache\ee63e04619fe88d16c91d5daecc8ac6f8f99c39a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rasbinder\.android\build-cache\4946c4689240aba8f06320eeb11e1ae187b6f15c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rasbinder\.android\build-cache\5382aa5c21dc15ff89d4c1e7c8c6691706e4797e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Rasbinder\.android\build-cache\342708a39b94e396e089d58873eea6cc50ba9f57\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Rasbinder\.android\build-cache\2070ed9fb0f8e7ddae2b1d3cabe4079e5acce8e7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Rasbinder\.android\build-cache\47179355876355fa6d0b913b34cd5e5403c3b062\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Rasbinder\.android\build-cache\64abc03dccc1b066480dfbfaf80decd8e5916019\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Rasbinder\.android\build-cache\96db79045790db41904b208af256a1663e8fc091\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\60f5a170a096efd65a3fe6070ab467b2ce86f264\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Rasbinder\.android\build-cache\1cb4052d1d4533f61c48a7614a2bb23a9b3c5a7f\output\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Rasbinder\.android\build-cache\306a5c297f7cf0c022d7e85010ac165c795a269c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Rasbinder\.android\build-cache\7e01336a5e40501774c8527faffbad33a46fc36e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Rasbinder\.android\build-cache\a69a86069a347ab795262e088602f2983a0b6ec5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Rasbinder\.android\build-cache\0ae9831853dd1b0b9c74e07ec98ce97ece8c8a4e\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Rasbinder\.android\build-cache\691406cfe0d5a5f18034db277877b73d655785c4\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Rasbinder\.android\build-cache\d1097ad006c17df819b773bf8808203f57f77f2e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\67d4ea21e2508c5cfd5c5c2cb651e9cc26c96f19\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Rasbinder\.android\build-cache\5d9af50b3cd9022000836f39c5b5cf3c2fe0cdd8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Rasbinder\.android\build-cache\69d55d0b3cab4996c24caeaad6e33d5b386d2396\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd1985ac275821769e04f3834e7e88641888bb60\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Rasbinder\.android\build-cache\931897a13496a8af70993594a8a0ddfa168ec5dd\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Rasbinder\.android\build-cache\f512268bee3b83d2d45c3021c0989ce97065202a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Rasbinder\.android\build-cache\d6b8714a9ac44faf58c3691146c91a210815d670\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\63d8d3080128923802a706ec0d53eb5ac7b91d2b\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\2d3f4a09a1d0ba998ee02876cd5cd44d20a34a84\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\04574a68303dfed476d10c286913758571832492\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\b3bab49c56f26b12c807bbb0282e39c62b59658e\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Rasbinder\.android\build-cache\75dacf9bfc35c09262c293b8249ad6fb12b1c516\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\6f2308b2f7874c75781f5f6e1e7e5bfbea3eb672\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Rasbinder\.android\build-cache\4597bcc21e3744ed87c9690bf897279b3fe3cf40\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Rasbinder\.android\build-cache\58a932611b0297ed4028c14047b7f1eeb0137b1e\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Rasbinder\.android\build-cache\397a372ba0fcc1d8925fb1246eca321ce0c080a8\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Rasbinder\.android\build-cache\31ced4c0fa551543f39202aa8ff2e55e14f455c2\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Rasbinder\.android\build-cache\7ac474e56a2873ce9dfa15792642f6398f8bf2e3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Rasbinder\.android\build-cache\caf3e9aaa661796d082d40cc789b018060f49cb0\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rasbinder\.android\build-cache\7f53f2722bd36b5172fd71670658c1e663182520\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rasbinder\.android\build-cache\bccc884dcfce9e271afdee4b6c1ee064bacd8a49\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rasbinder\.android\build-cache\961cebed5533b2cc219df5b38904122d559ab0fd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rasbinder\.android\build-cache\cb27babc2f44cf089a22b3df9942c6ff484c8b03\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rasbinder\.android\build-cache\eca0d25e75619a03b50ae38581a50d429ab6d48a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rasbinder\.android\build-cache\d5025a01716047cf36fa1ee9f7a371d26e2441fe\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:22:9-30
+	android:supportsRtl
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:24:9-35
+	android:roundIcon
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:23:9-54
+	android:allowBackup
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:21:9-42
+	android:theme
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:25:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:35:9-37:71
+	android:value
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:37:13-68
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:36:13-58
+activity#com.alpha.abhi.eatbyv1.Splashscreen
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:39:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.alpha.abhi.eatbyv1.MainActivity
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:46:9-50
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:46:19-47
+activity#com.alpha.abhi.eatbyv1.MapsActivity
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:47:9-49:59
+	android:label
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:48:13-41
+activity#com.alpha.abhi.eatbyv1.Afc
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:50:9-41
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:50:19-38
+activity#com.alpha.abhi.eatbyv1.Fauji
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:51:9-43
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:51:19-40
+activity#com.alpha.abhi.eatbyv1.Moti
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:52:9-42
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:52:19-39
+activity#com.alpha.abhi.eatbyv1.Spice
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:53:9-43
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:53:19-40
+activity#com.alpha.abhi.eatbyv1.Zaika
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:54:9-43
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:54:19-40
+activity#com.alpha.abhi.eatbyv1.Delicacy
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:55:9-46
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:55:19-43
+activity#com.alpha.abhi.eatbyv1.Fast
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:56:9-42
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:56:19-39
+activity#com.alpha.abhi.eatbyv1.Pahalwan
+ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:57:9-46
+	android:name
+		ADDED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml:57:19-43
+uses-sdk
+INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Rasbinder\.android\build-cache\d1fd9e01c69d9cf0532ca030200eb66469f4958e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\Rasbinder\.android\build-cache\805590691728fb55d1c1ba423011c6db29751746\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\28ecf0877791dbb38899f2068a55a2b582769c2a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\Rasbinder\.android\build-cache\63cefb42f02261fc24cbfd3b91ab16cf1d741da7\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Rasbinder\.android\build-cache\ad9e99a3a44f1a6a08a6f8f3686539018daa5801\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Rasbinder\.android\build-cache\82f24c3807fdae10df747b1ea9450fa1453e0776\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Rasbinder\.android\build-cache\13a0d060ab5e22137954c00042c0ac87ec239050\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Rasbinder\.android\build-cache\5706cfe76da3b0143d933d396d55e9e29c90f416\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rasbinder\.android\build-cache\ee63e04619fe88d16c91d5daecc8ac6f8f99c39a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rasbinder\.android\build-cache\4946c4689240aba8f06320eeb11e1ae187b6f15c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rasbinder\.android\build-cache\5382aa5c21dc15ff89d4c1e7c8c6691706e4797e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Rasbinder\.android\build-cache\342708a39b94e396e089d58873eea6cc50ba9f57\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Rasbinder\.android\build-cache\2070ed9fb0f8e7ddae2b1d3cabe4079e5acce8e7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Rasbinder\.android\build-cache\47179355876355fa6d0b913b34cd5e5403c3b062\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Rasbinder\.android\build-cache\64abc03dccc1b066480dfbfaf80decd8e5916019\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Rasbinder\.android\build-cache\96db79045790db41904b208af256a1663e8fc091\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\60f5a170a096efd65a3fe6070ab467b2ce86f264\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Rasbinder\.android\build-cache\837d76bd34a43be870213bd5599b43b26f6c5c1e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Rasbinder\.android\build-cache\ed6f17c9032a68fda481e39b33f03da6e001e9ae\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Rasbinder\.android\build-cache\1cb4052d1d4533f61c48a7614a2bb23a9b3c5a7f\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Rasbinder\.android\build-cache\f8744e51732b83eb1236dbaedda2e5174a7d5e9a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\da03cb763598d289455e258d611b2b280cebf80f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Rasbinder\.android\build-cache\306a5c297f7cf0c022d7e85010ac165c795a269c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Rasbinder\.android\build-cache\7e01336a5e40501774c8527faffbad33a46fc36e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Rasbinder\.android\build-cache\a69a86069a347ab795262e088602f2983a0b6ec5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Rasbinder\.android\build-cache\0ae9831853dd1b0b9c74e07ec98ce97ece8c8a4e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Rasbinder\.android\build-cache\691406cfe0d5a5f18034db277877b73d655785c4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Rasbinder\.android\build-cache\d1097ad006c17df819b773bf8808203f57f77f2e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\67d4ea21e2508c5cfd5c5c2cb651e9cc26c96f19\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\Rasbinder\.android\build-cache\bb5f2b4decc29eb2a6d5e0e3e0c47ca4e1d8cb5e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Rasbinder\.android\build-cache\5d9af50b3cd9022000836f39c5b5cf3c2fe0cdd8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Rasbinder\.android\build-cache\69d55d0b3cab4996c24caeaad6e33d5b386d2396\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd1985ac275821769e04f3834e7e88641888bb60\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Rasbinder\.android\build-cache\931897a13496a8af70993594a8a0ddfa168ec5dd\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Rasbinder\.android\build-cache\f512268bee3b83d2d45c3021c0989ce97065202a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Rasbinder\.android\build-cache\d6b8714a9ac44faf58c3691146c91a210815d670\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\Rasbinder\.android\build-cache\319ac7aa49fda5da6e2bf40ab9b032e27bb0ce8e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\63d8d3080128923802a706ec0d53eb5ac7b91d2b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\2d3f4a09a1d0ba998ee02876cd5cd44d20a34a84\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\04574a68303dfed476d10c286913758571832492\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\b3bab49c56f26b12c807bbb0282e39c62b59658e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Rasbinder\.android\build-cache\75dacf9bfc35c09262c293b8249ad6fb12b1c516\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\6f2308b2f7874c75781f5f6e1e7e5bfbea3eb672\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\Rasbinder\.android\build-cache\f54fc54339ce35db7b42712a25dc571cff880fa7\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Rasbinder\.android\build-cache\4597bcc21e3744ed87c9690bf897279b3fe3cf40\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Rasbinder\.android\build-cache\58a932611b0297ed4028c14047b7f1eeb0137b1e\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Rasbinder\.android\build-cache\397a372ba0fcc1d8925fb1246eca321ce0c080a8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Rasbinder\.android\build-cache\31ced4c0fa551543f39202aa8ff2e55e14f455c2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Rasbinder\.android\build-cache\7ac474e56a2873ce9dfa15792642f6398f8bf2e3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Rasbinder\.android\build-cache\caf3e9aaa661796d082d40cc789b018060f49cb0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rasbinder\.android\build-cache\7f53f2722bd36b5172fd71670658c1e663182520\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rasbinder\.android\build-cache\bccc884dcfce9e271afdee4b6c1ee064bacd8a49\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rasbinder\.android\build-cache\961cebed5533b2cc219df5b38904122d559ab0fd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rasbinder\.android\build-cache\cb27babc2f44cf089a22b3df9942c6ff484c8b03\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rasbinder\.android\build-cache\eca0d25e75619a03b50ae38581a50d429ab6d48a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rasbinder\.android\build-cache\d5025a01716047cf36fa1ee9f7a371d26e2441fe\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rasbinder\.android\build-cache\ee63e04619fe88d16c91d5daecc8ac6f8f99c39a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rasbinder\AndroidStudioProjects\EatByv1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\28ecf0877791dbb38899f2068a55a2b582769c2a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Rasbinder\.android\build-cache\69d55d0b3cab4996c24caeaad6e33d5b386d2396\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\63d8d3080128923802a706ec0d53eb5ac7b91d2b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\b3bab49c56f26b12c807bbb0282e39c62b59658e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Rasbinder\.android\build-cache\58a932611b0297ed4028c14047b7f1eeb0137b1e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Rasbinder\.android\build-cache\eb19c9d94b5c0a51a57db765e57dd1763894ac23\output\AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\28ecf0877791dbb38899f2068a55a2b582769c2a\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\63d8d3080128923802a706ec0d53eb5ac7b91d2b\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\b3bab49c56f26b12c807bbb0282e39c62b59658e\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\28ecf0877791dbb38899f2068a55a2b582769c2a\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Rasbinder\.android\build-cache\46961da4b3a0739e89e442c31c38753d9a12da4b\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Rasbinder\.android\build-cache\fd0182d5c76361a41c01543faa8c9308154dbb72\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Rasbinder\.android\build-cache\82f24c3807fdae10df747b1ea9450fa1453e0776\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Rasbinder\.android\build-cache\82f24c3807fdae10df747b1ea9450fa1453e0776\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Rasbinder\.android\build-cache\82f24c3807fdae10df747b1ea9450fa1453e0776\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Rasbinder\.android\build-cache\82f24c3807fdae10df747b1ea9450fa1453e0776\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Rasbinder\.android\build-cache\82f24c3807fdae10df747b1ea9450fa1453e0776\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Rasbinder\.android\build-cache\82f24c3807fdae10df747b1ea9450fa1453e0776\output\AndroidManifest.xml:7:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rasbinder\.android\build-cache\ee63e04619fe88d16c91d5daecc8ac6f8f99c39a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rasbinder\.android\build-cache\4946c4689240aba8f06320eeb11e1ae187b6f15c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rasbinder\.android\build-cache\5382aa5c21dc15ff89d4c1e7c8c6691706e4797e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rasbinder\.android\build-cache\7f53f2722bd36b5172fd71670658c1e663182520\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rasbinder\.android\build-cache\bccc884dcfce9e271afdee4b6c1ee064bacd8a49\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rasbinder\.android\build-cache\961cebed5533b2cc219df5b38904122d559ab0fd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rasbinder\.android\build-cache\cb27babc2f44cf089a22b3df9942c6ff484c8b03\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rasbinder\.android\build-cache\eca0d25e75619a03b50ae38581a50d429ab6d48a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rasbinder\.android\build-cache\d5025a01716047cf36fa1ee9f7a371d26e2441fe\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rasbinder\.android\build-cache\ee63e04619fe88d16c91d5daecc8ac6f8f99c39a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rasbinder\.android\build-cache\ee63e04619fe88d16c91d5daecc8ac6f8f99c39a\output\AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Rasbinder\.android\build-cache\db8c7a9df1843470ae66f2b3e0819c5476171058\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Rasbinder\.android\build-cache\691406cfe0d5a5f18034db277877b73d655785c4\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\67d4ea21e2508c5cfd5c5c2cb651e9cc26c96f19\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Rasbinder\.android\build-cache\691406cfe0d5a5f18034db277877b73d655785c4\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Rasbinder\.android\build-cache\d112c8d11f712ec053e66fa1e381725ccc0e4e26\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\63d8d3080128923802a706ec0d53eb5ac7b91d2b\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Rasbinder\.android\build-cache\63d8d3080128923802a706ec0d53eb5ac7b91d2b\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Rasbinder\.android\build-cache\c74b674e71767ec44e2c22b6b67726c92fa2cc3c\output\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Rasbinder\.android\build-cache\788b1a74982f0a72e3bc4802eb9b2d09d8cb1ba9\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\2d3f4a09a1d0ba998ee02876cd5cd44d20a34a84\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\2d3f4a09a1d0ba998ee02876cd5cd44d20a34a84\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\2d3f4a09a1d0ba998ee02876cd5cd44d20a34a84\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\2d3f4a09a1d0ba998ee02876cd5cd44d20a34a84\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Rasbinder\.android\build-cache\2d3f4a09a1d0ba998ee02876cd5cd44d20a34a84\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Rasbinder\.android\build-cache\58a932611b0297ed4028c14047b7f1eeb0137b1e\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Rasbinder\.android\build-cache\58a932611b0297ed4028c14047b7f1eeb0137b1e\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Rasbinder\.android\build-cache\58a932611b0297ed4028c14047b7f1eeb0137b1e\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Rasbinder\.android\build-cache\31ced4c0fa551543f39202aa8ff2e55e14f455c2\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Rasbinder\.android\build-cache\31ced4c0fa551543f39202aa8ff2e55e14f455c2\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Rasbinder\.android\build-cache\31ced4c0fa551543f39202aa8ff2e55e14f455c2\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Rasbinder\.android\build-cache\31ced4c0fa551543f39202aa8ff2e55e14f455c2\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Rasbinder\.android\build-cache\caf3e9aaa661796d082d40cc789b018060f49cb0\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Rasbinder\.android\build-cache\caf3e9aaa661796d082d40cc789b018060f49cb0\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Rasbinder\.android\build-cache\caf3e9aaa661796d082d40cc789b018060f49cb0\output\AndroidManifest.xml:20:20-65
